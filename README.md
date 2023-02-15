@@ -1,3 +1,3 @@
-# Guess_The_Number
+# JavaScript Practice
 
-A fun Number Guesser Game Created Using Math.random() function in Javascript
+
