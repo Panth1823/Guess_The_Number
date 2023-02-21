@@ -1,6 +1,5 @@
 let user = prompt("Enter Capital S, W or G");
 let cpuI = Math.floor(Math.random() * 3);
-// document.write(cpuI)
 console.log(typeof (cpuI))
 let cpu = ["S", "W", "G"][cpuI]
 const match = (cpu, user) => {
