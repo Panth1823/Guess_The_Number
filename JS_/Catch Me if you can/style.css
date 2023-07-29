@@ -1,0 +1,22 @@
+
+#box {
+    width: 20vw;
+    height: 20vw;
+    background-color: #0d97e2;
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20%;
+}
+
+#box p {
+    font-size: 1.7vw;
+    color: white;
+}
+
+p{font-size: larger;}
+
+body{background-color: black;}
+.head{color: white; font-size: larger; text-align: center; margin-top: 2vw;}
